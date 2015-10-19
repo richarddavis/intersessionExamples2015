@@ -31,17 +31,4 @@ void loop() {
   }
   np.clear();
   delay(100);
-  
-//  for (int i=255; i > 0; i--) {
-//    np.setBrightness(i);
-//    delay(10);
-//  }
-//  np.setBrightness(255);
-//  
-//  for (int i=0; i < 15; i++) {
-//    np.setPixelColor(i, 255, 255, 255);
-//    delay(100);
-//  }
-//  np.clear();
-//  delay(500);
 }
